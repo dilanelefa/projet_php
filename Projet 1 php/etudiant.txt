@@ -1,0 +1,5 @@
+22U2312; Tazo; Lyne; 18; Chimie; L1; 0.000000; 0.000000; 0.000000; 0.000000; 0.000000
+22T2966; Lefakong Tsomelou; vignol dilane; 18; informatique; l1; 0.000000; 0.000000; 0.000000; 0.000000; 0.000000
+22T2966; Lefakong Tsomelou; vignol dilane; 18; informatique; l1; 0.000000; 0.000000; 0.000000; 0.000000; 0.000000
+21T1323; Mbah; Pavel; 15; informatique; L1; 0.000000; 0.000000; 0.000000; 0.000000; 0.000000
+22U1212; Konlack; Pagnol; 17; Maths; l2; 0.000000; 0.000000; 0.000000; 0.000000; 0.000000
